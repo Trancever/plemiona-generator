@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plemiona-generator/static/css/main.905581da.css",
+    "main.js": "/plemiona-generator/static/js/main.d936fe7c.js",
+    "index.html": "/plemiona-generator/index.html",
+    "main.905581da.css.map": "/plemiona-generator/static/css/main.905581da.css.map",
+    "main.d936fe7c.js.map": "/plemiona-generator/static/js/main.d936fe7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905581da.css",
+    "static/js/main.d936fe7c.js"
+  ]
+}
